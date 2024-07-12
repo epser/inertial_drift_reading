@@ -4,7 +4,11 @@
 
 ## ストーリーモード <a href="#story" id="story"></a>
 
-* [エイダ](story/ada.md)
-* [エドワード](story/edward.md)
-* [イバ](story/ibba.md)
-* [ヴィヴ](story/viv.md)
+* [エイダ編](story/ada/README.md)
+  * [Stage1 レイクサイド・ループ](story/ada/stage1.md)
+  * [Stage2 シティ・スカイリンク](story/ada/stage2.md)
+  * [Stage3 スノーマウンテン・スプリント](story/ada/stage3.md)
+  * [Stage4 サンセットシー・サーキット](story/ada/stage4.md)
+* [エドワード編](story/edward.md)
+* [イバ編](story/ibba.md)
+* [ヴィヴ編](story/viv.md)
