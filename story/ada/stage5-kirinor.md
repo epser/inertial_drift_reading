@@ -121,20 +121,20 @@
 
 #### 原文
 
-> It seems you've gotten even faster since I last saw you drive...
+> Talsin: It seems you've gotten even faster since I last saw you drive...
 >
-> I couldn't do enough this time, but I'm going to keep working until I catch up with you.
+> Talsin: I couldn't do enough this time, but I'm going to keep working until I catch up with you.
 
 #### 現行訳
 
-> 今までのお前の運転からしたら、速くなってるよ。
+> Talsin: 今までのお前の運転からしたら、速くなってるよ。
 >
-> 今回は十分じゃなかったけど、お前に追いつくまで頑張るよ。
+> Talsin: 今回は十分じゃなかったけど、お前に追いつくまで頑張るよ。
 
 #### 試訳
 
-> 前に見たあんたのドライビングよりも、更に速くなってたな…
+> Talsin: 前に見たあんたのドライビングよりも、更に速くなってたな…
 >
-> 今回は十分じゃなかったけど、追いつけるように頑張るよ。
+> Talsin: 今回は十分じゃなかったけど、追いつけるように頑張るよ。
 
-先の例よりは比較的軽度ですが、ちょっと「エッ」となるところ。タルシンはまあまあ苛烈な性格ながらエイダには下手に出ているところが原文や他の現行訳からも読み取れて、それは正しいと思うんですが、だったら「今までのお前の運転からしたら」は上から目線が過ぎるんじゃあないか。
+先の例よりは比較的軽度ですが、ちょっと「えーっ」となるところ。タルシンはまあまあ苛烈な性格ながらエイダには下手に出ているところが原文や他の現行訳からも読み取れて、それは正しいと思うんですが、だったら「今までのお前の運転からしたら」は上から目線が過ぎるんじゃあないか。
