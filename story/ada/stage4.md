@@ -183,46 +183,48 @@
 * 前編: エイダはリクからのスタイルドリフトの誘いを断り、耐久チャレンジに参加する。
 * 後編: 耐久チャレンジをクリアしたエイダはヴィヴとイバから称賛を受ける。
 
+### 耐久チャレンジをクリアするのは別に凄い事じゃない
+
 #### **原文**
 
-> Finishing the Endurance Challenge is no mean feat, and you did it all on your own.
+> Viv: **Finishing the Endurance Challenge is no mean feat**, and you did it all on your own.
 >
-> Totally! Your drift transitions in the chicanes looked so clean...
+> Ibba: Totally! Your drift transitions in the chicanes looked so clean...
 >
-> That's something I've only just learned how to do myself.
+> Ibba: That's something I've only just learned how to do myself.
 >
-> I got the idea from the way Riku tackled them, but I adapted the technique to better suit my car...
+> Ada: I got the idea from the way Riku tackled them, but I adapted the technique to better suit my car...
 >
-> I guess having someone to follow isn't as important as I thought.
+> Ada: I guess having someone to follow isn't as important as I thought.
 >
-> Yeah, if you don't have confidence in your own skills first, then you'll always be second guessing yourself.
+> Viv: Yeah, if you don't have confidence in your own skills first, then you'll always be second guessing yourself.
 
 #### **現行訳**
 
-> 耐久チャレンジをクリアするのは別に凄い事じゃないけど、達成できたじゃない。
+> ヴィヴ: 耐久チャレンジをクリアするのは別に凄い事じゃないけど、達成できたじゃない。
 >
-> ほんとだよ！シケインのドリフト、すごくきれいだった...
+> イバ: ほんとだよ！シケインのドリフト、すごくきれいだった...
 >
-> 勉強になったしこれで、僕もできるぞ。
+> イバ: 勉強になったしこれで、僕もできるぞ。
 >
-> {T2M}のやり方からヒントを得たけど、私は自分の車にもっと合ったテクニックでいく。
+> エイダ: リクのやり方からヒントを得たけど、私は自分の車にもっと合ったテクニックでいく。
 >
-> 誰かにフォローしてもらうことは、そんなに重要じゃないのね。
+> エイダ: 誰かにフォローしてもらうことは、そんなに重要じゃないのね。
 >
-> ええ、最初に自分のスキルに自信がない時は、常に自分で考えないと。
+> ヴィヴ: ええ、最初に自分のスキルに自信がない時は、常に自分で考えないと。
 
 #### **試訳**
 
-> 耐久チャレンジの達成は並大抵ではない。あなたはそれを自分の力で成し遂げたのよ。
+> ヴィヴ: 耐久チャレンジのクリアは並大抵のことじゃないわ。あなたはそれを自分の力でやり遂げたの。
 >
-> その通りだよ！シケインでのドリフトの姿勢制御も、とても綺麗だった…
+> イバ: その通りだよ！シケインでのドリフトも、すごくクリーンに姿勢を変えていたね…
 >
-> あれは僕自身、できるようになったばかりの技術だよ。
+> イバ: あれは僕も、最近身につけたばかりのテクだよ。
 >
-> リクのやり方からヒントを貰ったんだ。それを私の車に合うよう自分でアレンジしたの。
+> エイダ: やり方のヒントはリクから貰ったけど、私の車に合うよう自分でアレンジしたんだ。
 >
-> 誰かについていくっていうのは、必ずしも重要じゃないかもしれないって思えてきたよ。
+> エイダ: 今までは、誰かを真似することが一番大事だと思ってたけど…それは一番じゃないのかも。
 >
-> ええ。自分のスキルに自信を持てない人は、自分自身を疑い続けてしまうからね。
->
-> まあ、間違いなく自信はついたかな。次のコースが待ちきれないよ！
+> ヴィヴ: ええ。まず自分自身のスキルに自信を持てなかったら、自分を疑ってばかりになっちゃうものね。
+
+見出しの通り、耐久チャレンジ達成を褒めてくれるはずのヴィヴが急に辛辣なことを言ってしまっています。続くイバの茶々も怪しいですが、特にラスト3行のフォローと自信のくだりは、エイダ編のテーマに関わる部分であれば、会話としてしっかり繋げるならばこうなるべきではないかと、機械と辞書頼りの素人としては思います。
