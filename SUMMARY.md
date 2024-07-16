@@ -9,7 +9,7 @@
   * [Stage2 シティ・スカイリンク](story/ada/stage2.md)
   * [Stage3 スノーマウンテン・スプリント](story/ada/stage3.md)
   * [Stage4 サンセットシー・サーキット](story/ada/stage4.md)
-  * [Stage5 キリノ山R](story/ada/stage5-kirinor.md)
+  * [Stage5 キリノ山R](story/ada/stage5.md)
 * [エドワード編](story/edward/README.md)
   * [Stage1 レイクサイド・ループ](story/edward/stage1.md)
 * [イバ編](story/ibba.md)
