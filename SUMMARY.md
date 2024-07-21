@@ -12,5 +12,6 @@
   * [Stage5 キリノ山R](story/ada/stage5.md)
 * [エドワード編](story/edward/README.md)
   * [Stage1 レイクサイド・ループ](story/edward/stage1.md)
+  * [Stage2 シティ・スカイリンク](story/edward/stage1-1.md)
 * [イバ編](story/ibba.md)
 * [ヴィヴ編](story/viv.md)
