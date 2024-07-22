@@ -1,5 +1,7 @@
 # Stage1 レイクサイド・ループ
 
+{% embed url="https://www.youtube.com/watch?v=DL_eFWpuQGU" %}
+
 ## 1. ゴーストバトル
 
 * 前編: エイダはサマーグランプリへの出場を決意する。ヴィヴの勧めによってコーリーのゴーストを借りる。
