@@ -13,5 +13,6 @@
 * [エドワード編](story/edward/README.md)
   * [エドワード編 Stage1 レイクサイド・ループ](story/edward/stage1.md)
   * [エドワード編 Stage2 シティ・スカイリンク](story/edward/stage2.md)
+  * [エドワード編 Stage3 スノーマウンテン・スプリント](story/edward/stage3.md)
 * [イバ編](story/ibba.md)
 * [ヴィヴ編](story/viv.md)
