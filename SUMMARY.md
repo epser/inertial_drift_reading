@@ -16,3 +16,7 @@
   * [エドワード編 Stage3 スノーマウンテン・スプリント](story/edward/stage3.md)
 * [イバ編](story/ibba.md)
 * [ヴィヴ編](story/viv.md)
+
+## レース中会話 <a href="#race_dialog" id="race_dialog"></a>
+
+* [レース中会話 エイダ](race\_dialog/ada.md)
