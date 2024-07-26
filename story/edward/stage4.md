@@ -189,7 +189,7 @@
 >
 > エドワード: **ホント、胸のつかえが取れてせいせいした気分だぜ。**
 
-ここは文脈上違和感があって調べた結果、意味が反転していると解釈しました。誤訳のポイントは "I feel loads better" で、ここでの副詞 "loads" は大きいこと、多いことを表す "lots of" とほぼ同義のイギリス英語でのスラングです（開発のLevel 91 EntertainmentはUKのメーカー）。
+ここは文脈上違和感があって調べた結果、意味が反転していると解釈しました。誤訳のポイントは "I feel loads better" で、ここの "loads" は負荷のことではなくイギリス英語のスラングです。大きいこと、多いことを表す "lots of" とほぼ同義と読んでよいようです（開発のLevel 91 EntertainmentはUKのメーカー）。
 
 * 参考: [https://ja.wiktionary.org/wiki/loads](https://ja.wiktionary.org/wiki/loads)
 
