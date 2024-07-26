@@ -11,7 +11,7 @@
 | NPCが壁にぶつかる         | Gah! Hitting the wall like that is not helping my race.                     | ああっ！壁に当たるなんてレースが不利になっちゃう。            | うっ！壁に当たるなんて、レースにはいいことじゃないね。     |
 | NPCが壁にぶつかる         | Nope! Lost it! Wasn't meaning to cut it so close there.                     | いや！そんな！こんなとこでカットされるなんて。              | しまった！ミスるつもりで攻めたわけじゃないのに！        |
 | NPCが壁にぶつかる         | That could have been a whole lot worse.                                     | ずっと調子悪かったかもね。                        | 最悪よりはマシってところね。                  |
-| NPCがオーバーテイク        | I'm not planning to make this easy for you.                                 | 勝たせるわけにはいかない。                        | 簡単には勝たせないよ。                     |
+| NPCがオーバーテイク        | I'm not planning to make this easy for you.                                 | 勝たせるわけにはいかない。                        | 簡単に勝たせるつもりはないよ。                 |
 | NPCがオーバーテイク        | Let's see how this will pan out now, when I'm in the lead!                  | 私がリードすれば、上手くいくもんね！                   | 私のリードだ！ここからどうなるかな？              |
 | NPCがオーバーテイク        | It helps that I've studied your driving style.                              | あなたの運転スタイルを勉強しててよかった。                | 相手のドライビングスタイル、予習しておいてよかった。      |
 | プレイヤーがパーソナルレコードを更新 | I crunched the numbers before the race; you're setting a new personal best! | レース前に計算したの。自己新記録達成よ！                 | レース前に計算してたの。あなた、自己新記録達成よ！       |
