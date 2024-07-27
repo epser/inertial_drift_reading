@@ -22,3 +22,4 @@
 ## レース中会話 <a href="#race_dialog" id="race_dialog"></a>
 
 * [レース中会話 エイダ](race\_dialog/ada.md)
+* [レース中会話 サミラ](race\_dialog/rsu-samira.md)
