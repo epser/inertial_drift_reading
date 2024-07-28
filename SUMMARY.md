@@ -16,7 +16,8 @@
   * [エドワード編 Stage3 スノーマウンテン・スプリント](story/edward/stage3.md)
   * [エドワード編 Stage4 サンセットシー・サーキット](story/edward/stage4.md)
   * [エドワード編 Stage5 キリノ山](story/edward/stage5.md)
-* [イバ編](story/ibba.md)
+* [イバ編](story/ibba/README.md)
+  * [イバ編 Stage1 レイクサイド・ループ](story/ibba/iba-stage1-reikusaidorpu.md)
 * [ヴィヴ編](story/viv.md)
 
 ## レース中会話 <a href="#race_dialog" id="race_dialog"></a>
