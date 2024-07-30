@@ -19,6 +19,7 @@
 * [イバ編](story/ibba/README.md)
   * [イバ編 Stage1 レイクサイド・ループ](story/ibba/stage1.md)
   * [イバ編 Stage2 シティ・スカイリンク](story/ibba/stage2.md)
+  * [イバ編 Stage3 スノーマウンテン・スプリント](story/ibba/stage3.md)
 * [ヴィヴ編](story/viv.md)
 
 ## レース中会話 <a href="#race_dialog" id="race_dialog"></a>
