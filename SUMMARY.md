@@ -21,6 +21,7 @@
   * [イバ編 Stage2 シティ・スカイリンク](story/ibba/stage2.md)
   * [イバ編 Stage3 スノーマウンテン・スプリント](story/ibba/stage3.md)
   * [イバ編 Stage4 サンセットシー・サーキット](story/ibba/stage4.md)
+  * [イバ編 Stage5 キリノ山](story/ibba/stage5.md)
 * [ヴィヴ編](story/viv.md)
 
 ## レース中会話 <a href="#race_dialog" id="race_dialog"></a>
