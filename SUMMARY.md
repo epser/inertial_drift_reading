@@ -34,6 +34,7 @@
 * [レース中会話 ガンナー](race\_dialog/gunner.md)
 * [レース中会話 イバ](race\_dialog/ibba.md)
 * [レース中会話 ジェイ](race\_dialog/jay.md)
+* [レース中会話 ルーカス](race\_dialog/rsu-rkasu.md)
 * [レース中会話 リク](race\_dialog/riku.md)
 * [レース中会話 サミラ](race\_dialog/samira.md)
 * [レース中会話 セス](race\_dialog/seth.md)
