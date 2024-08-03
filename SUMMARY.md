@@ -27,4 +27,16 @@
 ## レース中会話 <a href="#race_dialog" id="race_dialog"></a>
 
 * [レース中会話 エイダ](race\_dialog/ada.md)
+* [レース中会話 バウティスタ](race\_dialog/bautista.md)
+* [レース中会話 コーリー](race\_dialog/corey.md)
+* [レース中会話 エドワード](race\_dialog/edward.md)
+* [レース中会話 エスミー](race\_dialog/esmee.md)
+* [レース中会話 ガンナー](race\_dialog/gunner.md)
+* [レース中会話 イバ](race\_dialog/ibba.md)
+* [レース中会話 ジェイ](race\_dialog/jay.md)
+* [レース中会話 リク](race\_dialog/rsu-riku.md)
 * [レース中会話 サミラ](race\_dialog/samira.md)
+* [レース中会話 セス](race\_dialog/rsu-sesu.md)
+* [レース中会話 シネード](race\_dialog/rsu-shindo.md)
+* [レース中会話 タルシン](race\_dialog/rsu-tarushin.md)
+* [レース中会話 ヴィヴ](race\_dialog/rsu-vivu.md)
