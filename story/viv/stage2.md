@@ -86,7 +86,10 @@
 
 明らかに短縮のしすぎでしょう。原文を読まないと、ジョークかどうかすら分からなくないですか？
 
-If～more～thanを素直に繋げても良さそうなところですが、このゲームではmore thanを逆に読んで誤訳している例が他に何ヶ所かあるので、そういうものかもしれません。
+If～more～thanを素直に繋げても良さそうなところですが、このゲームでは "more A than B" を逆に読んで誤訳している例が他に何ヶ所かあるので、そういうものかもしれません。
+
+* ヴィヴ編: [#baransuyorigarupointo](../ada/stage3.md#baransuyorigarupointo "mention")
+* イバ編: [#suruyorisukotonogayokuberu](../ibba/stage1.md#suruyorisukotonogayokuberu "mention")
 
 ## 3. レース
 
