@@ -23,7 +23,7 @@
   * [イバ編 Stage4 サンセットシー・サーキット](story/ibba/stage4.md)
   * [イバ編 Stage5 キリノ山](story/ibba/stage5.md)
 * [ヴィヴ編](story/viv/README.md)
-  * [ヴィヴ編 Stage1 レイクサイド・ループ](story/viv/vivu-stage1-reikusaidorpu.md)
+  * [ヴィヴ編 Stage1 レイクサイド・ループ](story/viv/stage1.md)
 
 ***
 
