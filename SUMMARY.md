@@ -43,4 +43,4 @@
   * [レース中会話 シネード](rsu/sinead.md)
   * [レース中会話 タルシン](rsu/talsin.md)
   * [レース中会話 ヴィヴ](rsu/viv.md)
-* [その他メモ](sonomemo.md)
+* [その他メモ](misc.md)
