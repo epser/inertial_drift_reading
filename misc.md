@@ -1,25 +1,24 @@
 # その他メモ
 
-* 翻訳
-  * キリノ山(Mount Kirino)のみ、リバースでない順方向コースでも「キリノ山R」と呼ばれている。リソースミス
-  * UIの賑やかしにステージセレクトとかで見られる "OS: inertial drift 1.0" がCJK圏だけ "OS: inertial drift 0.8" になってる
 * バグ
-  * ストーリーモードのタイムアタックでプラチナタイムを出しても負け扱いになる（ヴィヴ/Stage1.3）
+  * ストーリーモードのタイムアタックでプラチナタイムを出しても負け扱いになる（ヴィヴ/Stage1.3などで確認）
   * NPCレーサーが大幅な劣勢時に優勢時の台詞を吐く（エスミー、ガンナーあたりで顕著）
   * フォントアトラスがそこかしこで不足していて、ダイナミックフォントかなんかにフォールバックされている
     * このページで手順メモ
   * 一部レース（Viv編に顕著）で、途中からレースを始める時に「前編」が始まらない
-    * レーススクリプトのrecapIndexが0になっていて、負けフラグをスキップして話が即時終了してるように見える
+    * レーススクリプトのrecapIndexが0になっていて、負けフラグをスキップして話が即時終了してるように見える。いずれ修正
 
-## 差し替え用のフォントアトラスをビルドする
+## Modding
 
-### 互換性のあるTextMeshProを用意
+### 差し替え用のフォントアトラスをビルドする
+
+#### 互換性のあるTextMeshProを用意
 
 Unity Hubを入れて、どうにかUnity(2019.4.40f1)をインストールする。カラの3Dプロジェクトを作成してUnityを起動。
 
 Window → Package ManagerでTextMeshProを有効にした後にプロジェクトを閉じ、`manifest.json`を開いてTextMeshProのバージョンを手動で1.4.1に変更。
 
-### フォントアトラス生成
+#### フォントアトラス生成
 
 再度プロジェクトを開き、アセットにNoto Sans JP-Light, Medium, BlackのTTFを追加する。
 
@@ -32,11 +31,11 @@ Window → TextMeshPro → Font Asset Creator からフォントアトラスの�
 * Character Setには [https://qiita.com/kgsi/items/08a1c78b3bee71136156](https://qiita.com/kgsi/items/08a1c78b3bee71136156) を借用
 * Render Mode: SDF32
 
-### オブジェクトの配置
+#### オブジェクトの配置
 
 GameObject → 3DObject → Text - TextMeshPro から必要な数だけテキストオブジェクトを作成し、各オブジェクトフォントを生成済みのTextMeshProアセットに設定する。
 
-### ビルドと取り出し
+#### ビルドと取り出し
 
 File → Build Setitngs で適当にビルドし、{project}\_Dataディレクトリの`sharedassets0.assets`をUABEAで開き、フォントのMonoBehavior(Dump export)とTexture2D(plugin→export)を抜き出す。
 
@@ -47,9 +46,9 @@ File → Build Setitngs で適当にビルドし、{project}\_Dataディレク�
 * NotoSansJP-Medium SDF Atlas(Texture2D)
 * NotoSansJP-Black SDF Atlas(Texture2D)
 
-## フォントアトラスを差し替える
+### フォントアトラスを差し替える
 
-### 取り出し
+#### 取り出し
 
 UABEAで`sharedassets0.assets`または`resources.assets`を開き（UABEAの場合どちらにせよ後者を参照する）、下記のMonoBehavior(Dump)を抜き出す。
 
@@ -57,7 +56,7 @@ UABEAで`sharedassets0.assets`または`resources.assets`を開き（UABEAの場
 * NotoSansJP-Medium SDF Static
 * NotoSansJP-Black SDF Static
 
-### マージ
+#### マージ
 
 同名のMonoBehaviorダンプをマージする。その際、以下の部分は新規作成したほうを優先する。
 
@@ -88,9 +87,7 @@ UABEAで`sharedassets0.assets`または`resources.assets`を開き（UABEAの場
   * italicStyle
   * tabSize
 
-### インポート
+#### インポート
 
 マージしたMonoBehaviorとAtlasをUABE上でインポートする。ファイル名を合わせてバッチインポートすれば2手くらいで済むはず。
-
-
 
