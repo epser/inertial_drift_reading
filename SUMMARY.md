@@ -25,6 +25,7 @@
 * [ヴィヴ編](story/viv/README.md)
   * [ヴィヴ編 Stage1 レイクサイド・ループ](story/viv/stage1.md)
   * [ヴィヴ編 Stage2 シティ・スカイリンク](story/viv/stage2.md)
+  * [ヴィヴ編 Stage3 スノーマウンテン・スプリント](story/viv/stage3.md)
 
 ***
 
