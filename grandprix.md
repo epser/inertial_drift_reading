@@ -8,7 +8,7 @@
 | Esmee    | C'mon, it'll be fun! Plus you'll even get to drive my car...                      | んもう、楽しいって！ウチに追いつけたらだけど...               | ほら、きっと楽しいって！　おまけにウチの車まで運転できるんだよ...              |
 | Esmee    | Great! Let's see what you can do.                                                 | いいね！それじゃ、行ってみよ。                         | うん、いいね！　それじゃ、腕前を見せてよ。                           |
 | Gunner   | It's really important to get a range of experience out on track.                  | いろんな経験を軌道に乗せることが超大事。                    | コースで幅広い経験を積む、これは本当に大事なことだよ。                     |
-| Gunner   | Racing my car, against my Ghost, should give you some pointers...                 | 僕の車とレースしたり、ゴーストと戦ったりすることで、目標が見えてくるかも... | 僕の車とゴーストを相手にレースすれば、何かヒントが掴めると思う...              |
+| Gunner   | Racing my car, against my Ghost, should give you some pointers...                 | 僕の車とレースしたり、ゴーストと戦ったりすることで、目標が見えてくるかも... | 僕の車で、ゴーストを相手にレースすれば、何かヒントが掴めると思う...             |
 | Gunner   | I mean, it's always good to try different options.                                | まあ、違ったオプションを試すのはいいよってこと。                | 要するに、色々やってみるのは大体いいってことさ。                        |
 | Corey    | I'm struggling with this track. I've no idea what to do...                        | 難しいコースだな。どうすればいいんだろ...                  | このコースに苦戦しててね。どうすればいいやら...                       |
 | Corey    | Wait, why don't you do a lap in my car? I'm sure I'd pick up tips from you.       | そうだ、僕の車で周ってみるのは？いくつかアドバイスするから。          | そうだ、君。僕の車でここを回ってみてくれないか？　そこからヒントを掴めると思うんだ。      |
