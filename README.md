@@ -4,4 +4,6 @@
 
 とにかく私の英語力はきわめて低いのですが、探した限り具体的な指摘や改善を試みる人は皆無だったので書いていく。
 
-成果物: [https://github.com/epser/inertial\_drift\_improve\_japanese](https://github.com/epser/inertial\_drift\_improve\_japanese)
+* 成果物: [https://github.com/epser/inertial\_drift\_improve\_japanese](https://github.com/epser/inertial\_drift\_improve\_japanese)
+  * 試訳は指摘時点のもので、パッチ作成までに再修正している場合があります
+
