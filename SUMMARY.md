@@ -30,7 +30,7 @@
 
 ***
 
-* [レース用語](rsu.md)
+* [レース用語](race\_terms.md)
 * [インターフェイス](interface.md)
 * [レース中会話](race\_dialog/README.md)
   * [レース中会話 エイダ](race\_dialog/ada.md)
