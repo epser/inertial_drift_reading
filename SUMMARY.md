@@ -30,8 +30,7 @@
 
 ***
 
-* [レース用語](race\_terms.md)
-* [インターフェイス](interface.md)
+* [レース前会話（グランプリモード）](grandprix.md)
 * [レース中会話](race\_dialog/README.md)
   * [レース中会話 エイダ](race\_dialog/ada.md)
   * [レース中会話 バウティスタ](race\_dialog/bautista.md)
@@ -48,4 +47,6 @@
   * [レース中会話 シネード](race\_dialog/sinead.md)
   * [レース中会話 タルシン](race\_dialog/talsin.md)
   * [レース中会話 ヴィヴ](race\_dialog/viv.md)
+* [レース用語](race\_terms.md)
+* [インターフェイス](interface.md)
 * [その他メモ](misc.md)
