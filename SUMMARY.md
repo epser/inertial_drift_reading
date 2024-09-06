@@ -30,6 +30,7 @@
 
 ***
 
+* [マシン説明文](machines.md)
 * [レース前会話（チャレンジモード）](grandprix.md)
 * [レース中会話](race\_dialog/README.md)
   * [レース中会話 エイダ](race\_dialog/ada.md)
